@@ -21,4 +21,7 @@ HousePriceProject/
 ├── ml_service/            # Python Flask ML microservice (Model inference & prediction pipeline)
 └── README.md              # Project documentation
 
+## 📺 Project Walkthrough Video
+Watch the complete demonstration of the **nestIQ** platform, covering the frontend user interface, .NET Core API, and AI real estate valuation flow:
 
+[![nestIQ Project Demo](https://www.loom.com/share/6fccc0c03d144422a8a44cac575e99eb)]
