@@ -1,4 +1,4 @@
-# nestIQ - Real Estate Price Prediction & Backend API
+# NestIQ - Real Estate Price Prediction & Backend API
 
 An enterprise-grade backend architecture and machine learning microservice built to power the **nestIQ** real estate platform. This system handles secure property valuation requests, database persistence, and AI-driven price prediction pipelines.
 
