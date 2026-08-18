@@ -23,4 +23,8 @@ HousePriceProject/
 ## 📺 Project Walkthrough Video
 Watch the complete demonstration of the **nestIQ** platform, covering the frontend user interface, .NET Core API, and AI real estate valuation flow:
 
-[![nestIQ Project Demo](https://www.loom.com/share/6fccc0c03d144422a8a44cac575e99eb)](https://www.loom.com/share/6fccc0c03d144422a8a44cac575e99eb)
+<p align="left">
+  <a href="https://www.loom.com/share/6fccc0c03d144422a8a44cac575e99eb">
+    <img src="https://img.shields.io/badge/Watch%2C%20nestIQ%20Demo-Loom-2563EB?style=for-the-badge&logo=video&logoColor=white" alt="Watch nestIQ Demo"/>
+  </a>
+</p>
