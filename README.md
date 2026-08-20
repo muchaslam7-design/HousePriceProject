@@ -4,7 +4,7 @@ An enterprise-grade backend architecture and machine learning microservice built
 
 ---
 
-## 📹 Project Walkthrough (Loom Video)
+## 📹 Backend & Swagger Testing (Loom Video)
 Watch the complete demonstration of the system architecture, API endpoints, and live price prediction workflow:
 
 👉 https://www.loom.com/share/6fccc0c03d144422a8a44cac575e99eb
